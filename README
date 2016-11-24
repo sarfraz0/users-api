@@ -1,0 +1,11 @@
+users-api
+=========
+
+This API can be used to have common userbase on distributed websites architecture
+
+# TODO
+- finish post and delete requests for User
+- add http methods for the others datatypes in User
+- add logic for auth and registration
+- add caching (Redis?)
+- add SQL constraints with Slick
